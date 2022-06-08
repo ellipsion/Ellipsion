@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Data Analysis and Visualization**
 
-- 👯 I’m looking to contribute on some **Django projects**
+- 👯 I’m looking to contribute on some **Django and Data Science Projects**
 
-- 💬 Ask me about **Python, Django, CSS**
+- 💬 Ask me about **Python, Pandas, Django, CSS**
 
 - 📫 How to reach me **ashishskyblue@gmail.com**
 
