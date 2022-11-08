@@ -3,17 +3,17 @@
 
    ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJS, ChartJS**
+- 🌱 I’m currently learning **ReactJS, NextJS, React-redux, Redux-persist**
 
-- 🔭 I’m currently working on **Data Analysis and Visualization**
+- 🔭 I’m currently working on **Ecommerce Web Apps**
 
 - 👯 I’m looking to contribute on some **Django and Data Science Projects**
 
-- 💬 Ask me about **Python, Pandas, Django, CSS**
+- 💬 Ask me about **Python, Pandas, Django, CSS, NextJs**
 
 - 📫 How to reach me **ashishskyblue@gmail.com**
 
-- ⚡ Fun fact: **I also have keen interest in graphic design**
+- ⚡ Fun fact: **I love to create elegant UI designs and great User Experience **
 
 - 😄 Pronouns: **he/him**
 
