@@ -3,7 +3,7 @@
 
    ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJS, NextJS, React-redux, Redux-persist**
+- 🌱 I’m currently learning **ReactJS, NextJS, React-redux, Redux-persist, GraphQL**
 
 - 🔭 I’m currently working on **Ecommerce Web Apps**
 
