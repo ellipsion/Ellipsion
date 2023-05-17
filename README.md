@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm Ashish</h1>
-<h3 align="center">A passionate python programmer and web developer from India</h3>
+<h3 align="center">A passionate python programmer, web developer and freelancer</h3>
 
    ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJS, NextJS, React-redux, Redux-persist, GraphQL**
+- 🌱 I’m currently learning **ReactJS, NextJS, React-redux, Framer-motion, GraphQL**
 
 - 🔭 I’m currently working on **Ecommerce Web Apps**
 
