@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashishskyblue@gmail.com**
 
-- 🧑‍💻 My Portfolio: ** Coming Soon **
+- 🧑‍💻 My Portfolio: **Coming Soon**
 
 - ⚡ Fun fact: **I love to create elegant UI designs and great User Experience **
 
