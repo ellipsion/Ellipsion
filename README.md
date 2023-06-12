@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, React-redux, Framer-motion, GraphQL**
 
-- 🔭 I’m currently working on **Ecommerce Web Apps** and **Dashboards**
+- 🔭 I’m currently working on **Custom ERP** and **3D Landing Pages**
 
 - 👯 I’m looking to contribute on some **Django and Data Science Projects**
 
@@ -13,11 +13,9 @@
 
 - 📫 How to reach me **ashishskyblue@gmail.com**
 
+- 🧑‍💻 My Portfolio: ** Coming Soon **
+
 - ⚡ Fun fact: **I love to create elegant UI designs and great User Experience **
-
-- 😄 Pronouns: **he/him**
-
-
 
 ### Connect with me:
 
