@@ -3,13 +3,13 @@
 
    ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJS, NextJS, React-redux, Framer-motion, GraphQL**
+- 🌱 I’m currently learning **Java**
 
-- 🔭 I’m currently working on **Custom ERP** and **3D Landing Pages**
+- 🔭 I’m currently working on **Reactjs** and **3D Landing Pages**
 
 - 👯 I’m looking to contribute on some **Django and Data Science Projects**
 
-- 💬 Ask me about **Python, Pandas, Django, CSS, NextJs**
+- 💬 Ask me about **Javascript, Reactjs, Pandas, Django, CSS, NextJs**
 
 - 📫 How to reach me **ashishskyblue@gmail.com**
 
