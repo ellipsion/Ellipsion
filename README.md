@@ -3,7 +3,7 @@
 
    ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AI / ML**
 
 - 🔭 I’m currently working on **Reactjs** and **3D Landing Pages**
 
