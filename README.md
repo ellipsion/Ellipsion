@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm Ashish</h1>
 <h3 align="center">A passionate python programmer, web developer and freelancer</h3>
-[![An image of @ellipsion's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ellipsion)](https://holopin.io/@ellipsion)]
+
    ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **AI / ML**
