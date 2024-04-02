@@ -3,8 +3,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **Next.js**
-- 🔭 I'm currently working on **Reactjs**
+- 🌱 I'm currently learning **Rust** 🦀
+- 🔭 I'm currently working on **Reactjs, Nextjs**
 - 💬 Ask me about **Javascript, Reactjs, Pandas, Django, CSS**
 - 📫 How to reach me **ashishskyblue@gmail.com**
 - ⚡ Fun fact: **I love to create user-friendly web apps**
