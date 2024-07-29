@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm Ashish</h1>
-<h3 align="center">A passionate programmer and developer.</h3>
+<h3 align="center">A passionate programmer and web developer.</h3>
 
 ## 🙋‍♂️ About Me
 
