@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **Rust** 🦀
+- 🌱 I'm currently learning **Rust, Golang, Kafka** 🦀
 - 🔭 I'm currently working on **Reactjs, Nextjs**
 - 💬 Ask me about **Javascript, Reactjs, Pandas, Django, CSS**
 - 📫 How to reach me **ashishskyblue@gmail.com**
